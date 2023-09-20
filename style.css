@@ -1,0 +1,110 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+:root {
+  --font-color: #ddd;
+  --bg-color: #282E34;
+  --link-color: #adadad;
+}
+
+body {
+  color: var(--font-color);
+}
+
+/* Image Sections */
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 80vh;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+.one {
+  background-image: url(img/forest.jpg);
+}
+
+.two {
+  background-image: url(img/rainforest.jpg);
+}
+
+.three {
+  background-image: url(img/desert.jpg);
+}
+
+.four {
+  background-image: url(img/city.jpg);
+}
+
+.title {
+  padding: 20px;
+  text-transform: uppercase;
+  font-weight: lighter;
+  letter-spacing: 5px;
+  background-color: var(--bg-color);
+}
+
+.subtitle {
+  text-align: center;
+}
+
+/* Text Sections */
+.txt {
+  padding: 50px 20vw;
+  background-color: var(--bg-color);
+  box-shadow: 2px 2px 1px 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.txt p {
+  justify-content: justify;
+  line-height: 2rem;
+  text-indent: 1rem;
+}
+
+a::before {
+  display: inline-block;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.src::after {
+  font-family: 'Material Symbols Outlined';
+  content: "\e89e";
+}
+
+a:hover {
+  color: white;
+}
+
+.footer {
+  background-color: var(--bg-color);
+  padding: 10px;
+  text-align: center;
+}
+
+/* Below 1200px width */
+@media only screen and (max-width: 1200px) {
+  .img {
+    background-attachment: inherit;
+  }
+
+  .txt {
+    padding: 30px 10vw;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .txt {
+    padding: 20px 5vw;
+  }
+}
