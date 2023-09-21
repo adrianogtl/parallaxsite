@@ -51,6 +51,24 @@ body {
   background-color: var(--bg-color);
 }
 
+.material-symbols-outlined {
+  transform: scale(1.5);
+}
+
+#btn-scroll-to-top {
+  position: fixed;
+  bottom: 30px;
+  right: 50px;
+  height: 50px;
+  width: 50px;
+  background-color: var(--font-color);
+  cursor: pointer;
+  border-radius: 50%;
+  border: none;
+  outline: none;
+  box-shadow: 0px 0px 10px 5px solid rgba(0, 0, 0, 0.300);
+}
+
 .subtitle {
   text-align: center;
 }
@@ -94,6 +112,11 @@ a:hover {
 
 /* Below 1200px width */
 @media only screen and (max-width: 1200px) {
+  #btn-scroll-to-top {
+    right: 20px;
+    bottom: 20px;
+  }
+
   .img {
     background-attachment: inherit;
   }
@@ -104,6 +127,11 @@ a:hover {
 }
 
 @media only screen and (max-width: 768px) {
+  #btn-scroll-to-top {
+      right: 10px;
+      bottom: 10px;
+    }
+
   .txt {
     padding: 20px 5vw;
   }
