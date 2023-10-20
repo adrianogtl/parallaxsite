@@ -9,7 +9,7 @@ btnScrollToTop.addEventListener('click', () => {
 })
 
 window.addEventListener('scroll', () => {
-  if (window.scrollY > 300) {
+  if (window.scrollY > 800) {
     btnScrollToTop.style.display = 'block'
   } else {
     btnScrollToTop.style.display = 'none'
