@@ -88,6 +88,7 @@ Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl
 
 * Icons by [Icons8][icons8-url] and [Google Icons][google-icons-url]
 * Photos available on [unsplash][unsplash-url] by [Filippo][forest-author], [Vlad Hilitanu][rainforest-author], [Guillermo][desert-author] and [Denys Nevozhai][city-author]
+* README template by [Othneil Drew][readme-template]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,6 +113,7 @@ Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl
 [google-icons-url]: https://fonts.google.com/icons
 [icons8-url]: https://icons8.com
 [unsplash-url]: https://unsplash.com/
+[readme-template]: https://github.com/othneildrew/Best-README-Template
 
 <!-- authors source -->
 [forest-author]: https://unsplash.com/@filos_photo
