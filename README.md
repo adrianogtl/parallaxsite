@@ -56,6 +56,7 @@
 
 ### Built With
 
+* [GIMP][gimp-url]
 * [GitHub Pages][github-pages]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -85,12 +86,8 @@ Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Icons provided by [Icons8][icons8-url] and [Google Icons][google-icons-url]
-* Photographs available on [unsplash][unsplash-url]
-  * [Forest][forest-url] by [Filippo][forest-author]
-  * [Rainforest][rainforest-url] by [Vlad Hilitanu][rainforest-author]
-  * [Desert][desert-url] by [Guillermo][desert-author]
-  * [City][city-url] by [Denys Nevozhai][city-author]
+* Icons by [Icons8][icons8-url] and [Google Icons][google-icons-url]
+* Photos available on [unsplash][unsplash-url] by [Filippo][forest-author], [Vlad Hilitanu][rainforest-author], [Guillermo][desert-author] and [Denys Nevozhai][city-author]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,6 +101,7 @@ Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl
 
 <!-- BUILT WITH -->
 [github-pages]: https://pages.github.com/
+[gimp-url]: https://www.gimp.org/
 
 
 <!-- LICENSE -->
@@ -114,12 +112,6 @@ Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl
 [google-icons-url]: https://fonts.google.com/icons
 [icons8-url]: https://icons8.com
 [unsplash-url]: https://unsplash.com/
-
-<!-- images source -->
-[forest-url]: https://unsplash.com/photos/a-river-running-through-a-forest-next-to-a-mountain-H2eQ2JZc4ww
-[rainforest-url]: https://unsplash.com/photos/aerial-view-of-green-trees-pt7QzB4ZLWw
-[desert-url]: https://unsplash.com/photos/a-very-tall-mountain-with-a-sky-in-the-background-ZWrQtOhGY9Q
-[city-url]: https://unsplash.com/photos/aerial-photography-of-high-rise-buildings-during-daytime-QPqD-w28ADc
 
 <!-- authors source -->
 [forest-author]: https://unsplash.com/@filos_photo
