@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/adrianogtl/parallaxsite">
+  <a href="https://adrianogtl.github.io/parallaxsite/en/">
     <img src="assets/logo96.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -15,7 +15,7 @@
     <br />
     <a href="https://adrianogtl.github.io/parallaxsite/en/">🇺🇸 View Demo</a>
     ·
-    <a href="https://adrianogtl.github.io/parallaxsite/pt-br/">🇧🇷 Ver Demonstração</a>
+    <a href="https://adrianogtl.github.io/parallaxsite/pt-br/">🇧🇷 Ver Demo</a>
   </p>
 </div>
 
@@ -42,16 +42,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](assets/header.gif)
+![Preview](assets/screencast.gif)
 
 * [Parallax scrolling][parallax-link] is a website trend where the background content (i.e. an image) is moved at a different speed than the foreground content while scrolling.
 * The effect does not always work on mobile devices. So it is **disabled** for such devices.
 * This website is available in American English and Brazilian Portuguese.
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -59,28 +54,17 @@
 * [GIMP][gimp-url]
 * [GitHub Pages][github-pages]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See [LICENSE][license-url] for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
 Adriano Garcia - [adrianogtlopes@gmail.com](mailto:adrianogtlopes@gmail.com)
-
-Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl.github.io/parallaxsite/en/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -90,7 +74,7 @@ Project Link: [https://adrianogtl.github.io/parallaxsite/en/](https://adrianogtl
 * Photos available on [unsplash][unsplash-url] by [Filippo][forest-author], [Vlad Hilitanu][rainforest-author], [Guillermo][desert-author] and [Denys Nevozhai][city-author]
 * README template by [Othneil Drew][readme-template]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 
 
